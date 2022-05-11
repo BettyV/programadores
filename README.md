@@ -1,4 +1,4 @@
-# BIENVENIDO AL CURSO
+# BIENVENIDO AL CURSO GITHUB
 
 prueba de repositorio
 
