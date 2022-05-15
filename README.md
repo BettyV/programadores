@@ -1,6 +1,6 @@
 # BIENVENIDO AL CURSO GITHUB
 
-prueba de repositorio
+prueba de repositorio..
 
 premios
 
